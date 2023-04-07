@@ -1,5 +1,67 @@
-
+body{
+    background-color: #282828;
+}
 
 .compName{
     color: gold;
+}
+
+.head-line{
+    padding-top: 100px;
+    background-color: black;
+    background-position: center;
+}
+
+body{
+    margin: 0;
+}
+
+.logoImg{
+    width: 80px;
+    height: auto;
+    position: absolute;
+    top: 15px;
+    left: 10px;
+}
+
+.compNameText {
+    color: #e79529;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: -65px;
+    font-weight: bold;
+    font-family: "MS UI Gothic";
+}
+
+.aboutComp{
+    color: #e79529;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: "Malgun Gothic";
+}
+
+.aboutProjectsText{
+    color: #e79529;
+    margin-left: 10px;
+    font-size: 20px;
+    font-family: "Malgun Gothic";
+}
+
+.copyright{
+    color: #e79529;
+    font-weight: bold;
+    font-family: "Malgun Gothic";
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+}
+
+.aboutProjectsList{
+    color: #e79529;
+}
+
+.aboutProjectsListText {
+    color: #e79529;
+    text-decoration: none;
 }
